@@ -2,7 +2,7 @@
 
 🎓 Final year Computer Science student passionate about tech and innovation.<br>
 💡 Exploring Python, Machine Learning, SQL, and App Development.<br>
-📹 Sharing my tech journey and productivity tips on [LinkedIn](https://www.youtube.com/@yourchannel).<br>
+📹 Sharing my tech journey and productivity tips on [LinkedIn](https://www.linkedin.com/in/saitejamakthala/).<br>
 🌱 Currently learning Machine Learning and working on real-world projects.<br>
 🚀 Actively seeking opportunities in *Software Development* and *Data Science*.<br>
 
